@@ -1,0 +1,28 @@
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.exe
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.deps.json
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.runtimeconfig.json
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.dll
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.pdb
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.AssemblyInfoInputs.cache
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.AssemblyInfo.cs
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.csproj.CoreCompileInputs.cache
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.dll
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\refint\CsharpFirstSteps.dll
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.pdb
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.genruntimeconfig.cache
+D:\.github.com\Nova pasta\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\ref\CsharpFirstSteps.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.exe
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.deps.json
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.runtimeconfig.json
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\bin\Debug\net10.0\CsharpFirstSteps.pdb
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.GeneratedMSBuildEditorConfig.editorconfig
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.AssemblyInfoInputs.cache
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.AssemblyInfo.cs
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.csproj.CoreCompileInputs.cache
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\refint\CsharpFirstSteps.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.pdb
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\CsharpFirstSteps.genruntimeconfig.cache
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\CsharpFirstSteps\obj\Debug\net10.0\ref\CsharpFirstSteps.dll

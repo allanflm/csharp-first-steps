@@ -1,0 +1,14 @@
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\bin\Debug\net10.0\1_Variables.exe
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\bin\Debug\net10.0\1_Variables.deps.json
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\bin\Debug\net10.0\1_Variables.runtimeconfig.json
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\bin\Debug\net10.0\1_Variables.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\bin\Debug\net10.0\1_Variables.pdb
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.AssemblyInfoInputs.cache
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.AssemblyInfo.cs
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.csproj.CoreCompileInputs.cache
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\refint\1_Variables.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.pdb
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.genruntimeconfig.cache
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\ref\1_Variables.dll
