@@ -12,3 +12,4 @@ D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\
 D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.pdb
 D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.genruntimeconfig.cache
 D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\ref\1_Variables.dll
+D:\.github.com\gamedevpro\introducao-a-programacao-csharp\1_Variables\obj\Debug\net10.0\1_Variables.sourcelink.json
